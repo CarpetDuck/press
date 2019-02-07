@@ -3,7 +3,7 @@ This is the LivenPay Press Kit, find attached documents, press images, logos, co
 
 Contact info@liven.com.au if more information is required.
 
-![image](/Banners/How%20Liven%20Works.png)
+![image](/Banners/LivenPay_1200x630.jpg)
 
 https://www.liven.com.au
 
